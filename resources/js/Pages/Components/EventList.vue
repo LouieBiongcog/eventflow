@@ -11,7 +11,7 @@ defineProps({
     <div class="bg-white shadow-md rounded-lg p-6">
         <table class="w-full border-collapse border border-gray-300">
             <thead>
-                <tr class="bg-gray-200">
+                <tr class="bg-blue-200">
                     <th class="border border-gray-300 px-4 py-2">Title</th>
                     <th class="border border-gray-300 px-4 py-2">Description</th>
                     <th class="border border-gray-300 px-4 py-2">Location</th>
